@@ -25,6 +25,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Feature Importance, Confusion Matrix
 - Key Insights + Business Recommendations
 
+## Dataset
+- Source: [Kaggle — Airline Delay Cause](https://www.kaggle.com/datasets/sriharshaeedala/airline-delay)
+- 171,666 rows | 21 columns | 2013-2023
+- Download CSV and place in same folder as notebook
+
 ## Key Results
 - Late Aircraft is #1 delay cause, 39% of total delays
 - Frontier Airlines worst performer at 25.1% delay rate
